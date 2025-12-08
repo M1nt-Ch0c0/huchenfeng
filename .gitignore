@@ -13,3 +13,5 @@ generate_answer.log
 __pycache__
 
 .DS_Store
+
+sft.jsonl
